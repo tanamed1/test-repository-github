@@ -12,3 +12,5 @@ git pull - stahne nove zmeny z remote repositare
 cd (name of folder) - go into folder in terminal
 cd .. - go back to overarching folder that contains current folder, a form of "esc"
 ls - view what folders are in currently opened folder
+
+some random change :)
